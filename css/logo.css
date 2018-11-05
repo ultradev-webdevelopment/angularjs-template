@@ -1,0 +1,79 @@
+a:hover {
+  color: hotpink;
+text-decoration: none;
+
+}    /* Remove the navbar's default margin-bottom and rounded borders */
+  .navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+  }
+
+  /* Add a gray background color and some padding to the footer */
+  footer {
+    background-color: black;
+    padding: 20px;
+  }
+
+#companylogo
+{
+    width:30; height:25;   
+}
+
+#logo-title {
+    font-size: 25px;
+    color: #df80ff;
+    line-height: 14px;
+    font-weight: bold;
+    text-decoration: none;
+    padding-top: 160px;
+    padding-left: 170px;
+
+	vertical-align: center;
+font-family: 'Chewy', cursive;
+}
+
+#logo-subtitle {
+    font-size: 24px;
+    padding-left: 2px;
+    line-height: 12px;
+   
+    text-decoration: none;
+    color:  #ff6600;;
+
+    padding-top: 5px;
+    vertical-align: bottom;
+font-family: 'Chewy', cursive;
+}
+
+
+#logo-subtitle-tag {
+    font-size: 20px;
+    padding-left: 2px;
+    line-height: 14px;
+
+     color: darkseagreen;
+
+    padding-top: 0px;
+    vertical-align: bottom;
+    text-shadow: text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue
+}
+
+#suggestion-dropdown {
+    font-size: 16px;
+    padding-left: 2px;
+    line-height: 14px;
+
+    text-decoration: none;
+    color: 	 #3973ac;
+
+    padding-top: 0px;
+    vertical-align: bottom;
+}
+
+.maincontent{
+    
+    overflow:scroll; height:430px;width:1280px;
+    
+    
+    
+}
